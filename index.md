@@ -3,6 +3,7 @@ title: "Ma page de recommandations"
 order: 0
 in_menu: true
 ---
+# Multimédia
 <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/NewPipe.png">
@@ -17,7 +18,8 @@ in_menu: true
     </div>
   </article>
 
-
+# Productivité
+## SIG
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/QGIS.png">
@@ -28,6 +30,22 @@ in_menu: true
       <div>
         <a href="https://framalibre.org/notices/qgis.html">Vers la notice Framalibre</a>
         <a href="https://qgis.org">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+# Outils en ligne de commande
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/vim.png">
+    </div>
+    <div>
+      <h2>vim</h2>
+      <p>Vim est l'éditeur modulaire dont vous avez besoin.</p>
+      <div>
+        <a href="https://framalibre.org/notices/vim.html">Vers la notice Framalibre</a>
+        <a href="http://www.vim.org/">Vers le site</a>
       </div>
     </div>
   </article> 
